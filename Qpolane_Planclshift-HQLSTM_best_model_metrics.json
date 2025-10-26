@@ -1,0 +1,9 @@
+{
+  "train_mse": 163798.453125,
+  "train_r2": -1.2206947803497314,
+  "val_mse": 13927.7197265625,
+  "val_r2": 0.3460209369659424,
+  "dropout_rate": 0.1,
+  "early_stopping_patience": 50,
+  "epochs_run": 105
+}
